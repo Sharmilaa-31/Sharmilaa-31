@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="................................................my linkedin link">
+  <a href="https://www.linkedin.com/in/sharmilaa-s-299874294">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="........................my twitter link">
