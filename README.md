@@ -45,7 +45,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Skillrack and visit GeeksforGeeks to build my skill well and also interested to read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sharmi-blue?style=flat&logo=Linkedin&logoColor=white)](...............my linkedin link)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sharmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharmilaa-s-299874294)
 
 I have a good knowledge in python coding and working on different python projects. I am also very good in web UI development. I am interested in working on open source projects. I am also interested in learning new technologies and exploring new ideas. I am always willing to help out others in need.
 
